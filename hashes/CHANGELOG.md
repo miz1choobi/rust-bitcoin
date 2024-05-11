@@ -1,5 +1,4 @@
 # unreleased
-
 * Change the default display direction of for tagged hashes to forwards. [#2707](https://github.com/rust-bitcoin/rust-bitcoin/pull/2707)
 
   Note please this usage if you need to display backward:
